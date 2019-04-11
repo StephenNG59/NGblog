@@ -1,0 +1,56 @@
+---
+layout:     post
+title:      "Welcome to NG Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+# iframe:     "http://huangxuan.me/js-module-7day/"
+date:       2019-03-30 20:02:12
+author:     "StephenNG"
+header-img: "img/post-bg-2015.jpg"
+# header-img: "img/home-bg-1.jpg"
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+从[黄玄的github](https://github.com/Huxpro/huxblog-boilerplate) fork过来，然后更改默认branch为gh-pages，修改_config.yml中的url为""，baseurl为"/NGblog"；把_config.yml中的/img/avatar-hux.jpg的第一个“/”去掉。把default.html中的"/img/icon_wechat.png"改为{{site.baseurl}}/img/icon_wechat.png。
+
+---
+
+> 下滑这里查看更多内容
+
+JavaScript 有着很奇怪的命名史。
+
+1995 年，它作为网景浏览器（Netscape Navigator）的一部分首次发布，网景给这个新语言命名为 LiveScript。一年后，为了搭上当时媒体热炒 Java 的顺风车，临时改名为了 JavaScript *（当然，Java 和 JavaScript 的关系，就和雷锋和雷锋塔一样 —— 并没有什么关系）*
+
+![java-javascript]({{site.baseurl}}/img/in-post/post-js-version/javascript-java.jpg)
+<small class="img-hint">歪果仁的笑话怎么一点都不好笑</small>
+
+
+<img class="shadow" width="320" src="{{site.baseurl}}/img/in-post/post-js-version/keep-calm-and-learn-javascript.png" />
+<small class="img-hint">来学 JavaScript 吧！</small>
+
+
+### [Watch Slides →](http://huangxuan.me/js-module-7day)
+
+<img src="http://huangxuan.me/js-module-7day/attach/qrcode.png" width="350" height="350"/>
+
+<small class="img-hint">你也可以通过扫描二维码在手机上观看</small>
+
+
+这个 Web Slides 开源在[我的 Github 上](https://github.com/Huxpro/js-module-7day)，欢迎你帮助我完善这个展示文稿，你可以给我提 issue，可以 fork & pull request。如果它能帮助到你了，希望你还能不吝啬 star 一下这个项目
+
+
+### Catalog
+
+- 第一日 上古时期 ***Module?*** 从设计模式说起
+- 第二日 石器时代 ***Script Loader*** 只有封装性可不够，我们还需要加载
+- 第三日 蒸汽朋克 ***Module Loader*** 模块化架构的工业革命
+- 第四日 号角吹响 ***CommonJS*** 征服世界的第一步是跳出浏览器
+- 第五日 双塔奇兵 ***AMD/CMD*** 浏览器环境模块化方案
+- 第六日 精灵宝钻 ***Browserify/Webpack*** 大势所趋，去掉这层包裹！
+- 第七日 王者归来 ***ES6 Module*** 最后的战役
+
+### Thanks
+
+[Reveal.js](http://lab.hakim.se/reveal-js)

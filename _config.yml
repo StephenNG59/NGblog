@@ -1,9 +1,9 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: NG Blog
+SEOTitle: NG Blog | 我假假哋都系一个夕阳武士
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: ""
+email: w2266@139.com
+description: "StephenNG's Blog"
 keyword: ""
 # url: "http://huangxuan.me"              # your host, for absolute URL
 # baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -14,11 +14,11 @@ baseurl: "/NGblog"         # for example, '/blog' if your blog hosted on 'host/b
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     AngierNG
+zhihu_username:     牛初乳
+github_username:    StephenNG59
 #twitter_username:  huxpro
-facebook_username:  huxpro
+facebook_username:  Leo Wu
 
 
 
@@ -70,8 +70,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "爱一个人系要理由嘅咩？唔使嘅咩？要嘅咩？"
+sidebar-avatar: img/avatar-luffy.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
